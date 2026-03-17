@@ -13,14 +13,20 @@ Discover factors affecting app success
 #Dataset:
 Source: Google Play Store dataset (CSV format)
 Contains:
-App Name
-Category
-Rating
-Reviews
-Installs
-Price
-Type (Free/Paid)
-Content Rating
+App Name,
+Category,
+Rating,
+Reviews,
+Installs,
+Price,
+Type (Free/Paid),
+Content Rating,
+Genre,
+Current Version,
+Android Version,
+Day,
+Month,
+Year
 
 #Tools & Technologies:
 Power BI
